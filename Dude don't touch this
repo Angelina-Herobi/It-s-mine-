@@ -4,6 +4,7 @@
 <title>My first site</tittle>
 </head>
 <body>
-<p><h1> What are you doing here? I don't wanna see you tomorrow!</p></h1>
+<style="background-color: pink;" 
+<h1> What are you doing here? I don't wanna see you!... oh, please sorry, im so angry everyone...</h1>
 </body>
 </html>
