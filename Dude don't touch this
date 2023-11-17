@@ -1,4 +1,4 @@
-<DOCTYPE html>
+i<DOCTYPE html>
 <html>
 <head>
 <title>Robotics<title>
@@ -42,3 +42,18 @@ li class="menu-item">
 </div>
 </section>
 
+<section class="cards-selection">
+<a name:"Metka"></a>
+<div class="container">
+<a name="Metka"></a>
+<div class="cards-title">
+<h1 class="cards-title">Featured Robotics Products To show</h1>
+<div class="cards-description">Who are in extremely love width eco friendly system.
+</div>
+</div>
+<div class="card">
+<div class="cards-row">
+<div class="card">
+<img class="card-img" src="img/p1.png">
+<div class="card-body">
+<
