@@ -20,7 +20,7 @@ li class="menu-item">
 <a class="menu-link" href="#">About</a>
 </li>
 <li class="menu-item">
-<a class="menu-link" href="#">Produkts</a>
+<a class="menu-link" href="#">Products</a>
 </li>
 </ul>
 </div>
@@ -42,7 +42,7 @@ li class="menu-item">
 </div>
 </section>
 
-<section class="cards-selection">
+<section class="cards-section">
 <a name:"Metka"></a>
 <div class="container">
 <a name="Metka"></a>
