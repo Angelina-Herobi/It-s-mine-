@@ -48,7 +48,7 @@ li class="menu-item">
 <a name="Metka"></a>
 <div class="cards-title">
 <h1 class="cards-title">Featured Robotics Products To show</h1>
-<div class="cards-description">Who are in extremely love width eco friendly system.
+<div class="cards-description">Who are in extremely love with eco friendly system.
 </div>
 </div>
 <div class="card">
@@ -56,4 +56,70 @@ li class="menu-item">
 <div class="card">
 <img class="card-img" src="img/p1.png">
 <div class="card-body">
-<
+<h3 class="card-title">The Upper Eye</h3>
+<div class="card-text">Who are in extreme ly love whith eco friendly system.</div>
+<div class="card-button">
+<a class="card-link" href="#"> Viev Detals</a>
+</div>
+</div>
+</div>
+
+
+<div class="card">
+<img class="card-img" src="img/p1/.png">
+<div class="card-body">
+<h3 class="card-title">The Upper Eye</h3>
+<div class="card-text">Who are in extreme ly love whith eco friendly system.</div>
+<div class="card-button>
+<a class="card-link" href="#"> Viev Detals</a>
+</div>
+</div>
+</div>
+<div class="card">
+<img class="card-img" src="img/p1.png">
+<div class="card-body">
+<h3> class"card-title">The Upper Eye</h3>
+<div class="card-text">Who are in extreme ly love whith eco friendly system</div>
+<div class="card-button">
+<a class="card-link" href="#">Viev Details</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</main>
+
+
+<footer class="footer">
+<div class="container">
+<div class="footer-row">
+<div class="search">
+<div class="copyright">Copyright 2019 All right reserved By...</div>
+<div class="footer-search">
+<imput type="text" class="footer-search>
+<imput type="text" class="footer-search-imput">
+<button class="footer-search-button">Subscribe</button>
+</div>
+</div>
+<div class="social-networks">
+<a href="#">
+<img class="footer-logo" src="img/vk.png></a>
+<a href="#">
+<img class="footer-logo" src="img/instagram.png"></a>
+<a href="#">
+<img class="footer-logo" src="img/youtube.png"></a>
+<a href="#">
+<img class="footer-logo" src="img/youtube.png></a>
+<a href="#">
+<img class="footer-logo src="img/facebook.png"></a>
+</div>
+</div>
+</div>
+</footer>
+
+
+
+</body>
+</html>
