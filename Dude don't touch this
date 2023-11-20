@@ -47,17 +47,17 @@ li class="menu-item">
 <div class="container">
 <a name="Metka"></a>
 <div class="cards-title">
-<h1 class="cards-title">Featured Robotics Products To show</h1>
+<h1 class="cards-title">Look to this mem</h1>
 <div class="cards-description">Who are in extremely love with eco friendly system.
 </div>
 </div>
 <div class="card">
 <div class="cards-row">
 <div class="card">
-<img class="card-img" src="img/p1.png">
+<img class="card-img" src="IMG_20231117_232221_741">
 <div class="card-body">
 <h3 class="card-title">The Upper Eye</h3>
-<div class="card-text">Who are in extreme ly love whith eco friendly system.</div>
+<div class="card-text">This is so funny mem</div>
 <div class="card-button">
 <a class="card-link" href="#"> Viev Detals</a>
 </div>
@@ -66,20 +66,20 @@ li class="menu-item">
 
 
 <div class="card">
-<img class="card-img" src="img/p1/.png">
+<img class="card-img" src="IMG_20231117_232221_741">
 <div class="card-body">
-<h3 class="card-title">The Upper Eye</h3>
-<div class="card-text">Who are in extreme ly love whith eco friendly system.</div>
+<h3 class="card-title">This is manga</h3>
+<div class="card-text">This is so funny mem</div>
 <div class="card-button>
-<a class="card-link" href="#"> Viev Detals</a>
+<a class="card-link" href="#"> Viev Details</a>
 </div>
 </div>
 </div>
 <div class="card">
-<img class="card-img" src="img/p1.png">
+<img class="card-img" src="IMG_20231117_232221_741">
 <div class="card-body">
-<h3> class"card-title">The Upper Eye</h3>
-<div class="card-text">Who are in extreme ly love whith eco friendly system</div>
+<h3> class"card-title">This is manga</h3>
+<div class="card-text">This is so funny mem</div>
 <div class="card-button">
 <a class="card-link" href="#">Viev Details</a>
 </div>
@@ -96,7 +96,7 @@ li class="menu-item">
 <div class="container">
 <div class="footer-row">
 <div class="search">
-<div class="copyright">Copyright 2019 All right reserved By...</div>
+<div class="copyright">Copyright in 2018 year</div>
 <div class="footer-search">
 <imput type="text" class="footer-search>
 <imput type="text" class="footer-search-imput">
