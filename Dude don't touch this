@@ -7,7 +7,7 @@
 <header>
 <div class:"container">
 <div class:"header-logo">
-<img class:logo-img src="IMG_20231031_104801_249">
+<img class:"logo-img" src="IMG_20231031_104801_249">
 <h1 class="logo-title">Robotics<h1>
 </div>
 
